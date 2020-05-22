@@ -1,6 +1,7 @@
 
 ## MongoDB Sharding
 ### Architecture - 
+<img src = "https://github.com/nikitabairagi/Personal-Project/blob/master/MongoDb_sharded_cluster_topology.png" width="65%">
 ### Steps -
 
 ### 1. Creating MongoDb AMI Image :
