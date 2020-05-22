@@ -10,7 +10,7 @@
 ## Week 5 (24th March'19 - 30 March'19)
 
 Architecture used for creating Riak Cluster -
-<img src="https://github.com/nguyensjsu/cmpe281-nikitabairagi/blob/master/RiakDB_cluster_topology.png" width="90%">
+<img src="https://github.com/nikitabairagi/Personal-Project/blob/master/RiakDB_cluster_topology.png" width="90%">
 
 ## Steps
 
