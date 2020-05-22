@@ -105,7 +105,7 @@ created a key file to serve as shared password between the replicas.
 
 Created a replication set of 5 nodes. Below is the architecture(master-slave model) of Replica set. All the write operations in replica set are recieved by primary node. All the secondary nodes replicate the dataset of primary node to reflect the primary node data.
 
-<img src="https://github.com/nguyensjsu/cmpe281-nikitabairagi/blob/master/MongoDb_topology.png" width="65%">
+<img src="https://github.com/nikitabairagi/Personal-Project/blob/master/MongoDb_topology.png" width="65%">
 
 **Steps :**
 * Using mongo-ami image launced 5 free tier instances - Primary, Secondary1, Secondary2, Secondary3, Secondary4.
